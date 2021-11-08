@@ -5,7 +5,7 @@ The project was written by Michael Musili
 The webpage,the landing page of Moringa Restrant is of many youths fast food at cheap pricess.We aim at aiding young college students to afford quality food at fair pricess.
 ## Setup/Installation Requirements
 * To view the website click
-*  http://github.com/Michael-Musili/Independent-project-2.git
+*  http://github.com/Michael-Musili/Independent-project-22.git
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
